@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brian Alexander Snipes, aka @Alex-Snipes
+- 👋 Hi, I’m @Alex-Snipes
 - 👀 I’m interested in software development and game design
 - 🌱 I’m currently learning C# and SQLite
 - 📫 I'm enrolled at the University of Alabama for a Bachelor's in CS
